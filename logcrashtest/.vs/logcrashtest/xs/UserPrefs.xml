@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6128A604-F5D9-4E41-AE1C-F8C83D51EA09}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="logcrashtest/Program.cs">
+    <Files>
+      <File FileName="logcrashtest/Program.cs" Line="111" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="logcrashtest" expanded="True">
+            <Node name="logcrashtest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.logcrashtest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
